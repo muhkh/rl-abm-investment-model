@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this model in your research, please cite the archived CoMSES release below."
+
+title: "RL-ABM Investment Model"
+
+authors:
+  - family-names: "Ali"
+    given-names: "Muhammad Khurram"
+  - family-names: "Ali"
+    given-names: "Haider"
+  - family-names: "Mohammad"
+    given-names: "Hafiz"
+
+license: MIT
+repository-code: "https://github.com/muhkh/rl-abm-investment-model"
+
+preferred-citation:
+  type: software
+  title: "Integrating Reinforcement Learning in Agent-Based Modeling for Dynamic Investment Decisions"
+  authors:
+    - family-names: "Ali"
+      given-names: "Muhammad Khurram"
+    - family-names: "Ali"
+      given-names: "Haider"
+    - family-names: "Mohammad"
+      given-names: "Hafiz"
+  version: "1.0.0"
+  date-released: 2026-05-05
+  doi: "10.25937/644j-cv09"
+  url: "https://doi.org/10.25937/644j-cv09"
