@@ -89,6 +89,14 @@ If you use this model or associated code in academic work, please cite the archi
 
 Ali, M. K., Ali, H., & Mohammad, H. (2026). *Integrating Reinforcement Learning in Agent-Based Modeling for Dynamic Investment Decisions* (Version 1.0.0). CoMSES Computational Model Library. https://doi.org/10.25937/644j-cv09
 
+## Authors
+
+- **Muhammad Khurram Ali, PhD**
+- **Haider Ali**
+- **Hafiz Mohammad**
+
+This repository accompanies the research work *Integrating Reinforcement Learning in Agent-Based Modeling for Dynamic Investment Decisions*.
+
 ## License
 
 This repository is distributed under the **MIT License**. See the `LICENSE` file for details.
